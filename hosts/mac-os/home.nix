@@ -75,9 +75,7 @@
     httpd
     hwloc
     hydra
-    icu4c@75
-    icu4c@76
-    icu4c@77
+    icu4c
     imath
     iperf3
     isl
@@ -172,7 +170,6 @@
     node
     ntopng
     numpy
-    nvm
     oniguruma
     openblas
     opencore-amr
@@ -180,8 +177,7 @@
     openjdk
     openjpeg
     openldap
-    openssl@1.1
-    openssl@3
+    openssl3
     opus
     osslsigncode
     p11-kit
@@ -197,8 +193,8 @@
     pycparser
     python-packaging
     python-setuptools
-    python@3.12
-    python@3.13
+    python312
+    python313
     qemu
     rav1e
     readline
